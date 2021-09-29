@@ -1,0 +1,177 @@
+.contact input  {
+    border:0px;
+    box-sizing: border-box;
+    margin:5px;
+    padding:10px;
+    
+    border-radius: 10px;
+}
+
+.sub-div{
+    width: 400px;
+    height:250px;
+    background-color: rgb(247, 245, 235);
+    text-align: center;
+    margin:0px 450px 0px 450px;
+    border-radius: 10px;
+}
+.java{
+    list-style-type: circle;
+}
+.mag-o-zine{
+    border:0px solid black;
+    width: 100%;
+    float:left;
+}
+.middle {
+    border:5px solid black;
+    margin:5px 300px 5px 400px;
+    float:left;
+    padding:5px
+    
+}
+.magazine {
+    border:0px solid black;
+    width:100%;
+    text-align: center; 
+    font-weight: bold;
+    font-size: 20px;
+    color:white;
+    background-color: red;
+    float:left;
+}
+.detail1 Input::-webkit-input-placeholder { 
+    font-family: 'Grey Qo', cursive;
+    font-weight: bold;
+    font-size: 19px;
+}
+.address Input::-webkit-input-placeholder { 
+    font-family: 'Grey Qo', cursive;
+    font-weight: bold;
+    font-size: 19px;
+}
+.area Input::-webkit-input-placeholder { 
+    font-family: 'Grey Qo', cursive;
+    font-weight: bold;
+    font-size: 19px;
+}
+.detail {
+    border:0px solid black;
+    width:100%;
+    font-size: 15px;
+    font-family:  Ariel Narrow;
+    height:50px;
+}
+.detail1 {
+    float:left;
+    margin:0px 5px 0px 12px;
+}
+.detail1 input {
+    
+    box-sizing: border-box;
+    border-top:0px;
+    border-left: 0px;
+    border-right:0px;
+    margin:5px 0px 0px 0px;
+}
+.address {
+    border:0px solid black;
+    font-size: 15px;
+    width:100%;
+    padding:0px 0px 0px 12px;
+}
+.address input{
+    border-top:0px;
+    border-left: 0px;
+    border-right:0px;
+}
+.area{
+    width:100%;
+    font-size: 15px;
+    border:0px solid black;
+}
+.area1{
+    border:0px solid black;
+    float:left;
+    width:30%;
+    padding:0px 0px 0px 12px;
+}
+.area1 input{
+    border-top:0px;
+    border-left: 0px;
+    border-right:0px;
+}
+.subscribe{
+    border:0px solid black;
+    width:100%;
+    float:left;
+    padding:0px 0px 0px 12px;
+}
+.subscribe input{
+    border-radius: 0px;
+    box-shadow: 5px 10px px black;
+}
+.info {
+    border:0px solid black;
+    width: 100%;
+    padding:0px 0px 0px 12px;
+}
+.info p{
+margin:70px 0px 0px 0px;
+}
+
+ .table1{
+     width:100%;
+border:0px solid black;
+margin:0px 0px 20px 300px;
+float: left;
+ }   
+table {
+    
+    width: 600px;
+    border-collapse: collapse;
+   
+
+}
+table, th, td {
+    border: 2px solid black;
+}
+th, td {
+    padding: 10px;
+}
+.form-elements{
+    width:100%;
+    border:0px solid black;
+    float:left;
+    
+    
+
+}
+.align{
+    width:50%;
+    border:0px solid black;
+    margin:10px 100px 0px 300px;
+    float:left;
+
+    background-color: rgb(245, 246, 247);
+    
+}
+.list ul{
+    list-style-type: circle;
+}
+.elements {
+    border:0px solid black;
+}
+.set{
+    border:0px solid black;
+    background-color: rgb(192, 200, 214);
+    float:left;
+    width:100%;
+}
+.out-line{
+    border:2px solid black;
+    float:left;
+    width: 30%;
+    margin:10px 0px 0px 400px;
+    padding:10px 10px 10px 10px;
+}
